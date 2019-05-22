@@ -1,0 +1,1 @@
+{"version":3,"sources":["../articles/img/about_header.jpg"],"names":["module","exports","__webpack_require__","p"],"mappings":"8EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"static/js/22.a896db5c.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/about_header.431cd83d.jpg\";"],"sourceRoot":""}

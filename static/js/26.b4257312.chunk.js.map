@@ -1,0 +1,1 @@
+{"version":3,"sources":["../articles/img/header-bg2.jpg"],"names":["module","exports","__webpack_require__","p"],"mappings":"8EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"static/js/26.b4257312.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/header-bg2.2a62ae14.jpg\";"],"sourceRoot":""}

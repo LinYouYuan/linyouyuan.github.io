@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{384:function(e,s){e.exports={title:"Tags",subtitle:"The shortest answer is doing",header_img:"freshsalt.jpg",key:"index.md",content:""}}}]);
+//# sourceMappingURL=3.748cbd00.chunk.js.map
